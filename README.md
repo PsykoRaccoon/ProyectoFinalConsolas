@@ -1,6 +1,6 @@
-Equipo: 
+# Equipo: 
 
-Victor Sanchez
-Andre Cerdan
-Diego Lecanda
-Luis Lemus
+## Victor Sanchez
+## Andre Cerdan
+## Diego Lecanda
+## Luis Lemus
